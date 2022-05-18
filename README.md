@@ -1,2 +1,2 @@
 # BoxCutter
-penitration tool that runs to test security of server boxes
+penitration tool that runs to test security of cloud or local systems
