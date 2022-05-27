@@ -1,2 +1,5 @@
 # BoxCutter
-penitration tool that runs to test security of cloud or local systems
+penitration script that runs to test linux systems
+
+1. install tools....
+2. open ports, 
