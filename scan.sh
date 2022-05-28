@@ -10,12 +10,12 @@ bold=$(tput bold)
 normal=$(tput sgr0)
 
         
-echo "${GREEN}${bold} scan domain or IP${NC}${normal} (y/n)"
+echo "${GREEN}${bold} Scan Domain or IP?${NC}${normal} (y/n)"
 read -r reply
   if [ "$reply" = y ] || [ "$reply" = Y ]
    then
       read -p "Enter Domain or IP: " IP
-      nmap -F ${IP}
+      nmap -Pn ${IP}
     else
        echo "${RED}${bold} nmap, not installed${NC}${normal}"
     fi
