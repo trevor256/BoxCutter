@@ -1,6 +1,6 @@
 # BoxCutter
-A Penitration Script That 
-1. Tests linux systems
+A Recon Script That 
+1. Scan systems
 2. Looks for Open-source intelligence(OSI)
 
 
@@ -8,5 +8,10 @@ A Penitration Script That
 curl -L https://raw.githubusercontent.com/trevor256/BoxCutter/main/scan.sh -o scan.sh && sh scan.sh
 ```
 
-1. asks to install tools....
-2. scan ports, 
+1. asks to install tools nmap Recon-Ng TheHarvester Google Dorks....
+2. scan systems  
+3. scan for OSI
+
+
+4.  xplot, ctioga2
+5. show data that was found  
