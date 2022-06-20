@@ -18,5 +18,7 @@ curl -L https://raw.githubusercontent.com/trevor256/BoxCutter/main/scan.sh -o sc
 
 
 
-attack 
+attack find
 xauth
+lsusb
+lscpu
