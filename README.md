@@ -1,5 +1,5 @@
 # BoxCutter
-A Recon Script That 
+A Script That can scan and be used for accessing linux systems. 
 1. Scan systems
 2. Looks for Open-source intelligence(OSI)
 
@@ -15,3 +15,8 @@ curl -L https://raw.githubusercontent.com/trevor256/BoxCutter/main/scan.sh -o sc
 
 4.  xplot, ctioga2
 5. show data that was found  
+
+
+
+attack 
+xauth
