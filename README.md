@@ -22,3 +22,4 @@ attack find
 xauth
 lsusb
 lscpu
+env
